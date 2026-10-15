@@ -1,0 +1,5 @@
+Triggered CI run to start the app and smoke tests.
+
+This file was added to force a push to the repository and trigger the CI workflow that builds the production image and runs the smoke test against the OCR endpoint.
+
+Timestamp: 2026-10-15T00:00:00Z
