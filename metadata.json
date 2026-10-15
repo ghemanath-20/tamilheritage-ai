@@ -1,0 +1,6 @@
+{
+  "name": "நூல் மீட்பு",
+  "description": "நூற்றாண்டு பழைமையான தமிழ் நூல்களைக் கற்பனைச் சொற்கள் இன்றி மீட்டெடுக்கும் உயர்தர எண்மியக் கட்டமைப்பு",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
